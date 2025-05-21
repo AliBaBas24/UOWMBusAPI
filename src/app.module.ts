@@ -8,6 +8,7 @@ import { ServeStaticModule } from '@nestjs/serve-static';
 import { ConfigModule } from '@nestjs/config';
 import { TicketController } from './controllers/ticket/ticket.controller';
 import { TicketService } from './providers/ticket/ticket.service';
+import { StatusController } from './controllers/status/status.controller';
 
 @Module({
   imports: [
@@ -15,7 +16,7 @@ import { TicketService } from './providers/ticket/ticket.service';
     ServeStaticModule.forRoot({ rootPath: './client' }),
     ConfigModule.forRoot({ isGlobal: true }),
   ],
-  controllers: [BusController, TicketController],
+  controllers: [BusController, TicketController, StatusController],
   providers: [
     TicketService,
     BusService,
