@@ -1,0 +1,109 @@
+{
+  "areas": [
+    {
+      "zone": "A",
+      "type": "L",
+      "mins": "10",
+      "resolvedSchedule": "Καστοριά – AEI",
+      "map_img": "https://astikoktelkastorias.gr/wp-content/uploads/2023/10/tei-1.png",
+      "desc_el": "Το Πανεπιστήμιο Δυτικής Μακεδονίας (Π.Δ.Μ.) είναι ανώτατο εκπαιδευτικό ίδρυμα που ιδρύθηκε το 2003 με το Προεδρικό Διάταγμα No. 92/11-4-2003 στην Περιφέρεια Δυτικής Μακεδονίας, με έδρα την Κοζάνη. Το Πανεπιστήμιο διαθέτει 7 Σχολές και 21 Τμήματα από τα οποία τα 4 εδράζονται στη Καστοριά",
+      "desc_en": "The University of Western Macedonia (UoWM) is a higher educational institution established in 2003 by Presidential Decree No. 92/11-4-2003 in the Region of Western Macedonia, based in Kozani. The University has 7 Faculties and 21 Departments, 4 of which are located in Kastoria.",
+      "place": {
+        "start": {
+          "en": {
+            "location": "Kastoria",
+            "address": "Kastoria, 521 00, Western Macedonia, Greece"
+          },
+          "el": {
+            "location": "Καστοριά",
+            "address": "Καστοριά, 521 00, Δυτική Μακεδονία, Ελλάδα"
+          },
+          "lon": "21.268169",
+          "lat": "40.519218"
+        },
+        "end": {
+          "en": {
+            "location": "UoWM",
+            "address": "Fourka, 521 00, Kastoria"
+          },
+          "el": {
+            "location": "Πανεπιστήμιο",
+            "address": "Φούρκα, 521 00 Καστοριά Καστοριάς"
+          },
+          "lon": "21.245723",
+          "lat": "40.506355"
+        }
+      }
+    },
+    {
+      "zone": "B",
+      "type": "L",
+      "mins": 30,
+      "resolvedSchedule": "Καστοριά – Νταηλάκη – Ζούζουλη – Μανιάκοι",
+      "map_img": "https://astikoktelkastorias.gr/wp-content/uploads/2023/10/maniakoi-1.png",
+      "desc_el": "Οι Μανιάκοι είναι κωμόπολη του Νομού Καστοριάς, η οποία υπήρξε έδρα του πρώην Δήμου Αγίας Τριάδας. Από το 2011 υπάγονται διοικητικά στον διευρυμένο Δήμο Καστοριάς. Οι Μανιάκοι βρίσκονται νοτιοδυτικά της Καστοριάς, σε απόσταση 4 χλμ. νοτιοδυτικά από το κέντρο της πόλης.",
+      "desc_en": "Maniaki is a small town in the prefecture of Kastoria, which was the seat of the former municipality of Agia Triada. Since 2011 they are administratively part of the enlarged Municipality of Kastoria. Maniaki is located southwest of Kastoria, 4 km southwest of the city center.",
+      "place": {
+        "start": {
+          "en": {
+            "location": "Kastoria",
+            "address": "Kastoria, 521 00, Western Macedonia, Greece"
+          },
+          "el": {
+            "location": "Καστοριά",
+            "address": "Καστοριά, 521 00, Δυτική Μακεδονία, Ελλάδα"
+          },
+          "lon": "21.268169",
+          "lat": "40.519218"
+        },
+        "end": {
+          "en": {
+            "location": "Maniakoi",
+            "address": "Maniakoi, 521 00, Kastoria, Western Macedonia, Greece"
+          },
+          "el": {
+            "location": "Μανιάκοι",
+            "address": "Μανιάκοι, 521 00, Καστοριά, Δυτική Μακεδονία, Ελλάδα"
+          },
+          "lon": "21.244700",
+          "lat": "40.502050"
+        }
+      }
+    },
+    {
+      "zone": "B",
+      "type": "N",
+      "mins": 45,
+      "resolvedSchedule": "Καστοριά – Μανιάκοι – Κολοκυνθού – Μεσοποταμία",
+      "map_img": "https://astikoktelkastorias.gr/wp-content/uploads/2023/10/mesopotamia-2.png",
+      "desc_el": "Η Μεσοποταμιά βρίσκεται στα βορειοδυτικό άκρο της περιφερειακής ενότητας, σε υψόμετρο 700 μέτρα, 12 χιλιόμετρα νοτιοδυτικά της πόλης της Καστοριάς. Την ονομασία της οφείλει στο γεγονός ότι βρέχεται από δύο παραποτάμους του Αλιάκμονα. Στην τοπική αυτή κοινότητα ανήκει επίσης ο οικισμός Κολοκυνθού.",
+      "desc_en": "Mesopotamia is located at the northwestern edge of the regional unit, at an altitude of 700 meters, 12 kilometers southwest of the city of Kastoria. It owes its name to the fact that it is washed by two tributaries of Aliakmonas. The settlement of Kolokynthos also belongs to this local community.",
+      "place": {
+        "start": {
+          "en": {
+            "location": "Kastoria",
+            "address": "Kastoria, 521 00, Western Macedonia, Greece"
+          },
+          "el": {
+            "location": "Καστοριά",
+            "address": "Καστοριά, 521 00, Δυτική Μακεδονία, Ελλάδα"
+          },
+          "lon": "21.268169",
+          "lat": "40.519218"
+        },
+        "end": {
+          "en": {
+            "location": "Mesopotamia",
+            "address": "Mesopotamia, 521 00, Kastoria, Western Macedonia, Greece"
+          },
+          "el": {
+            "location": "Μεσοποταμία",
+            "address": "Μεσοποταμία, 521 00, Καστοριά, Δυτική Μακεδονία, Ελλάδα"
+          },
+          "lon": "21.160040",
+          "lat": "40.504640"
+        }
+      }
+    }
+  ]
+}

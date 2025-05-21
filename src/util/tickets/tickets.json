@@ -1,0 +1,42 @@
+{
+  "zoneA": {
+    "name": "Zone A",
+    "name_el": "Ζώνη Α",
+    "category": {
+      "norm": {
+        "url": "https://pub-a65a191fa4d14606aec83a6b14268769.r2.dev/1.webp",
+        "inside": "1.50",
+        "outside": "1.20"
+      },
+      "low": {
+        "url": "https://pub-a65a191fa4d14606aec83a6b14268769.r2.dev/2.webp",
+        "inside": "0.80",
+        "outside": "0.70"
+      },
+      "stud": {
+        "inside": "0.80",
+        "outside": "0.70"
+      }
+    }
+  },
+  "zoneB": {
+    "name": "Zone B",
+    "name_el": "Ζώνη Β",
+    "category": {
+      "norm": {
+        "url": "https://pub-a65a191fa4d14606aec83a6b14268769.r2.dev/3.webp",
+        "inside": "0.50",
+        "outside": "1.20"
+      },
+      "low": {
+        "url": "https://pub-a65a191fa4d14606aec83a6b14268769.r2.dev/4.webp",
+        "inside": "1.20",
+        "outside": "0.90"
+      },
+      "stud": {
+        "inside": "1.20",
+        "outside": "0.90"
+      }
+    }
+  }
+}
