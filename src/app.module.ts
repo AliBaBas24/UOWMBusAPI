@@ -9,6 +9,8 @@ import { ConfigModule } from '@nestjs/config';
 import { TicketController } from './controllers/ticket/ticket.controller';
 import { TicketService } from './providers/ticket/ticket.service';
 import { StatusController } from './controllers/status/status.controller';
+import { StopsController } from './controllers/stops/stops.controller';
+import { StopsService } from './providers/stops/stops.service';
 
 @Module({
   imports: [
@@ -16,10 +18,11 @@ import { StatusController } from './controllers/status/status.controller';
     ServeStaticModule.forRoot({ rootPath: './client' }),
     ConfigModule.forRoot({ isGlobal: true }),
   ],
-  controllers: [BusController, TicketController, StatusController],
+  controllers: [BusController, TicketController, StatusController, StopsController],
   providers: [
     TicketService,
     BusService,
+    StopsService,
     {
       provide: APP_INTERCEPTOR,
       useClass: MorganInterceptor('combined'),
